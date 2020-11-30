@@ -1,72 +1,294 @@
 {
   "playlistDetail": [
     {
-      "id": 1,
-      "title": "Swirls All The Way Down",
-      "author": "Maura Benitez",
-      "thumbnail": "http://uninterested-cows.surge.sh/images/layer1.png"
-    },
-    {
-      "id": 2,
-      "title": "Total Simetry",
-      "author": "Osmar Martinez",
-      "thumbnail": "http://uninterested-cows.surge.sh/images/layer2.png"
-    }
+            "id" : 1,
+            "title": "Swirls All The Way Down",
+            "author": "Maura Benitez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer1.png"
+        },
+        {
+            "id" : 2,
+            "title": "Total Simetry",
+            "author": "Osmar Martinez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer2.png"
+        },
+        {
+            "id" : 3,
+            "title": "Swirls All The Way Down",
+            "author": "Maura Benitez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer3.png"
+        },
+        {
+            "id" : 4,
+            "title": "Swirls All The Way Down",
+            "author": "Maura Benitez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer1.png"
+        },
+        {
+            "id" : 5,
+            "title": "Total Simetry",
+            "author": "Osmar Martinez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer2.png"
+        },
+        {
+            "id" : 6,
+            "title": "Swirls All The Way Down",
+            "author": "Maura Benitez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer3.png"
+        },
+        {
+            "id" : 7,
+            "title": "Swirls All The Way Down",
+            "author": "Maura Benitez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer1.png"
+        },
+        {
+            "id" : 8,
+            "title": "Total Simetry",
+            "author": "Osmar Martinez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer2.png"
+        },
+        {
+            "id" : 9,
+            "title": "Swirls All The Way Down",
+            "author": "Maura Benitez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer3.png"
+        }
   ],
   "playlists": [
     {
-      "id": 1,
-      "title": "Mirror Perfection",
-      "author": "Ed Cano",
-      "thumbnail": "http://uninterested-cows.surge.sh/images/layer5.png"
-    },
-    {
-      "id": 2,
-      "title": "Relaxing Complexity",
-      "author": "Sandsara",
-      "thumbnail": "http://uninterested-cows.surge.sh/images/layer2.png"
-    }
+            "id" : 1,
+            "title": "Mirror Perfection",
+            "author": "Ed Cano",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer5.png"
+        },
+        {
+            "id" : 2,
+            "title": "Relaxing Complexity",
+            "author": "Sandsara",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer2.png"
+        },
+        {
+            "id" : 3,
+            "title": "Mirror Perfection",
+            "author": "Ed Cano",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer5.png"
+        },
+        {
+            "id" : 4,
+            "title": "Relaxing Complexity",
+            "author": "Sandsara",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer2.png"
+        },
+        {
+            "id" : 5,
+            "title": "Mirror Perfection",
+            "author": "Ed Cano",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer5.png"
+        },
+        {
+            "id" : 6,
+            "title": "Relaxing Complexity",
+            "author": "Ed Cano",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer2.png"
+        },
+        {
+            "id" : 7,
+            "title": "Mirror Perfection",
+            "author": "Ed Cano",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer5.png"
+        },
+        {
+            "id" : 8,
+            "title": "Relaxing Complexity",
+            "author": "Ed Cano",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer2.png"
+        },
+        {
+            "id" : 9,
+            "title": "Mirror Perfection",
+            "author": "Ed Cano",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer5.png"
+        },
+        {
+            "id" : 10,
+            "title": "Relaxing Complexity",
+            "author": "Ed Cano",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer2.png"
+        }
   ],
   "recommendPlaylist": [
     {
-      "id": 1,
-      "title": "Swirls All The Way Down",
-      "author": "Maura Benitez",
-      "thumbnail": "http://uninterested-cows.surge.sh/images/layer1.png"
-    },
-    {
-      "id": 2,
-      "title": "Total Simetry",
-      "author": "Osmar Martinez",
-      "thumbnail": "http://uninterested-cows.surge.sh/images/layer2.png"
-    }
+            "id" : 1,
+            "title": "Swirls All The Way Down",
+            "author": "Maura Benitez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer1.png"
+        },
+        {
+            "id" : 2,
+            "title": "Total Simetry",
+            "author": "Osmar Martinez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer2.png"
+        },
+        {
+            "id" : 3,
+            "title": "Swirls All The Way Down",
+            "author": "Maura Benitez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer3.png"
+        },
+        {
+            "id" : 4,
+            "title": "Swirls All The Way Down",
+            "author": "Maura Benitez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer1.png"
+        },
+        {
+            "id" : 5,
+            "title": "Total Simetry",
+            "author": "Osmar Martinez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer2.png"
+        },
+        {
+            "id" : 6,
+            "title": "Swirls All The Way Down",
+            "author": "Maura Benitez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer3.png"
+        },
+        {
+            "id" : 7,
+            "title": "Swirls All The Way Down",
+            "author": "Maura Benitez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer1.png"
+        },
+        {
+            "id" : 8,
+            "title": "Total Simetry",
+            "author": "Osmar Martinez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer2.png"
+        },
+        {
+            "id" : 9,
+            "title": "Swirls All The Way Down",
+            "author": "Maura Benitez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer3.png"
+        }
   ],
   "recommendTracks": [
     {
-      "id": 1,
-      "title": "Swirls All The Way Down",
-      "author": "Maura Benitez",
-      "thumbnail": "http://uninterested-cows.surge.sh/images/layer1.png"
-    },
-    {
-      "id": 2,
-      "title": "Total Simetry",
-      "author": "Osmar Martinez",
-      "thumbnail": "http://uninterested-cows.surge.sh/images/layer2.png"
-    }
+            "id" : 1,
+            "title": "Swirls All The Way Down",
+            "author": "Maura Benitez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer1.png"
+        },
+        {
+            "id" : 2,
+            "title": "Total Simetry",
+            "author": "Osmar Martinez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer2.png"
+        },
+        {
+            "id" : 3,
+            "title": "Swirls All The Way Down",
+            "author": "Maura Benitez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer3.png"
+        },
+        {
+            "id" : 4,
+            "title": "Swirls All The Way Down",
+            "author": "Maura Benitez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer4.png"
+        },
+        {
+            "id" : 5,
+            "title": "Total Simetry",
+            "author": "Osmar Martinez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer5.png"
+        },
+        {
+            "id" : 6,
+            "title": "Swirls All The Way Down",
+            "author": "Maura Benitez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer6.png"
+        },
+        {
+            "id" : 7,
+            "title": "Swirls All The Way Down",
+            "author": "Maura Benitez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer7.png"
+        },
+        {
+            "id" : 8,
+            "title": "Total Simetry",
+            "author": "Osmar Martinez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer8.png"
+        },
+        {
+            "id" : 9,
+            "title": "Swirls All The Way Down",
+            "author": "Maura Benitez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer9.png"
+        }
   ],
   "tracks": [
     {
-      "id": 1,
-      "title": "The Way Down",
-      "author": "Maura Benitez",
-      "thumbnail": "http://uninterested-cows.surge.sh/images/layer1.png"
-    },
-    {
-      "id": 2,
-      "title": "Simetry",
-      "author": "Osmar Martinez",
-      "thumbnail": "http://uninterested-cows.surge.sh/images/layer2.png"
-    }
+            "id" : 1,
+            "title": "Swirls All The Way Down",
+            "author": "Maura Benitez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer1.png"
+        },
+        {
+            "id" : 2,
+            "title": "Total Simetry",
+            "author": "Osmar Martinez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer2.png"
+        },
+        {
+            "id" : 3,
+            "title": "Swirls All The Way Down",
+            "author": "Maura Benitez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer3.png"
+        },
+        {
+            "id" : 4,
+            "title": "Swirls All The Way Down",
+            "author": "Maura Benitez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer4.png"
+        },
+        {
+            "id" : 5,
+            "title": "Total Simetry",
+            "author": "Osmar Martinez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer5.png"
+        },
+        {
+            "id" : 6,
+            "title": "Swirls All The Way Down",
+            "author": "Maura Benitez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer6.png"
+        },
+        {
+            "id" : 7,
+            "title": "Swirls All The Way Down",
+            "author": "Maura Benitez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer7.png"
+        },
+        {
+            "id" : 8,
+            "title": "Total Simetry",
+            "author": "Osmar Martinez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer8.png"
+        },
+        {
+            "id" : 9,
+            "title": "Swirls All The Way Down",
+            "author": "Maura Benitez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer9.png"
+        },
+        {
+            "id" : 10,
+            "title": "Swirls All The Way Down",
+            "author": "Maura Benitez",
+            "thumbnail": "http://uninterested-cows.surge.sh/images/layer10.png"
+        }
   ]
 }
