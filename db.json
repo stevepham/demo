@@ -1,294 +1,80 @@
 {
-  "playlistDetail": [
+  "pizza": [
     {
-            "id" : 1,
-            "title": "Swirls All The Way Down",
-            "author": "Maura Benitez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer1.png"
-        },
-        {
-            "id" : 2,
-            "title": "Total Simetry",
-            "author": "Osmar Martinez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer2.png"
-        },
-        {
-            "id" : 3,
-            "title": "Swirls All The Way Down",
-            "author": "Maura Benitez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer3.png"
-        },
-        {
-            "id" : 4,
-            "title": "Swirls All The Way Down",
-            "author": "Maura Benitez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer1.png"
-        },
-        {
-            "id" : 5,
-            "title": "Total Simetry",
-            "author": "Osmar Martinez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer2.png"
-        },
-        {
-            "id" : 6,
-            "title": "Swirls All The Way Down",
-            "author": "Maura Benitez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer3.png"
-        },
-        {
-            "id" : 7,
-            "title": "Swirls All The Way Down",
-            "author": "Maura Benitez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer1.png"
-        },
-        {
-            "id" : 8,
-            "title": "Total Simetry",
-            "author": "Osmar Martinez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer2.png"
-        },
-        {
-            "id" : 9,
-            "title": "Swirls All The Way Down",
-            "author": "Maura Benitez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer3.png"
-        }
+      "id": 1,
+      "url": "https://namesfrog.com/wp-content/uploads/2020/03/Pizza-Restaurant-Names-2-1200x800.jpg",
+      "name": "Pepperoni",
+      "desc": "Peperoni is bla bla bla bla bla",
+      "shortDesc": "Short desc info",
+      "price": 15
+    },
+    {
+      "id": 2,
+      "url": "https://townsquare.media/site/696/files/2019/03/Pizza.jpg",
+      "name": "Meat pizza",
+      "desc": "Meat pizza is my favorites",
+      "shortDesc": "Short desc info ",
+      "price": 12
+    },
+    {
+      "id": 3,
+      "url": "https://townsquare.media/site/394/files/2016/02/RS11751_153784617-scr.jpg",
+      "name": "Hawaiian"
+      "desc": "",
+      "shortDesc": "",
+      "price": 16
+    }
   ],
-  "playlists": [
+  "sushi": [
     {
-            "id" : 1,
-            "title": "Mirror Perfection",
-            "author": "Ed Cano",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer5.png"
-        },
-        {
-            "id" : 2,
-            "title": "Relaxing Complexity",
-            "author": "Sandsara",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer2.png"
-        },
-        {
-            "id" : 3,
-            "title": "Mirror Perfection",
-            "author": "Ed Cano",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer5.png"
-        },
-        {
-            "id" : 4,
-            "title": "Relaxing Complexity",
-            "author": "Sandsara",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer2.png"
-        },
-        {
-            "id" : 5,
-            "title": "Mirror Perfection",
-            "author": "Ed Cano",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer5.png"
-        },
-        {
-            "id" : 6,
-            "title": "Relaxing Complexity",
-            "author": "Ed Cano",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer2.png"
-        },
-        {
-            "id" : 7,
-            "title": "Mirror Perfection",
-            "author": "Ed Cano",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer5.png"
-        },
-        {
-            "id" : 8,
-            "title": "Relaxing Complexity",
-            "author": "Ed Cano",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer2.png"
-        },
-        {
-            "id" : 9,
-            "title": "Mirror Perfection",
-            "author": "Ed Cano",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer5.png"
-        },
-        {
-            "id" : 10,
-            "title": "Relaxing Complexity",
-            "author": "Ed Cano",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer2.png"
-        }
-  ],
-  "recommendPlaylist": [
+      "id": 4,
+      "url": "https://i.pinimg.com/originals/a2/2e/7f/a22e7fa7e5182335f26f931f40db6b8c.jpg",
+      "name": "Maki",
+      "desc": "Maki is bla bla bla yeasf I dunno",
+      "shortDesc": "Short desc for",
+      "price": 15
+    },
     {
-            "id" : 1,
-            "title": "Swirls All The Way Down",
-            "author": "Maura Benitez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer1.png"
-        },
-        {
-            "id" : 2,
-            "title": "Total Simetry",
-            "author": "Osmar Martinez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer2.png"
-        },
-        {
-            "id" : 3,
-            "title": "Swirls All The Way Down",
-            "author": "Maura Benitez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer3.png"
-        },
-        {
-            "id" : 4,
-            "title": "Swirls All The Way Down",
-            "author": "Maura Benitez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer1.png"
-        },
-        {
-            "id" : 5,
-            "title": "Total Simetry",
-            "author": "Osmar Martinez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer2.png"
-        },
-        {
-            "id" : 6,
-            "title": "Swirls All The Way Down",
-            "author": "Maura Benitez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer3.png"
-        },
-        {
-            "id" : 7,
-            "title": "Swirls All The Way Down",
-            "author": "Maura Benitez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer1.png"
-        },
-        {
-            "id" : 8,
-            "title": "Total Simetry",
-            "author": "Osmar Martinez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer2.png"
-        },
-        {
-            "id" : 9,
-            "title": "Swirls All The Way Down",
-            "author": "Maura Benitez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer3.png"
-        }
-  ],
-  "recommendTracks": [
+      "id": 5,
+      "url": "https://media-cdn.tripadvisor.com/media/photo-s/16/a3/90/64/sushi-roll-forgot-the.jpg",
+      "name": "Sashimi",
+      "desc": "How to make sashimi, learn asfasdf saf asf ",
+      "shortDesc": "Short desc info of sashimi",
+      "price": 12
+    },
     {
-            "id" : 1,
-            "title": "Swirls All The Way Down",
-            "author": "Maura Benitez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer1.png"
-        },
-        {
-            "id" : 2,
-            "title": "Total Simetry",
-            "author": "Osmar Martinez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer2.png"
-        },
-        {
-            "id" : 3,
-            "title": "Swirls All The Way Down",
-            "author": "Maura Benitez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer3.png"
-        },
-        {
-            "id" : 4,
-            "title": "Swirls All The Way Down",
-            "author": "Maura Benitez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer4.png"
-        },
-        {
-            "id" : 5,
-            "title": "Total Simetry",
-            "author": "Osmar Martinez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer5.png"
-        },
-        {
-            "id" : 6,
-            "title": "Swirls All The Way Down",
-            "author": "Maura Benitez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer6.png"
-        },
-        {
-            "id" : 7,
-            "title": "Swirls All The Way Down",
-            "author": "Maura Benitez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer7.png"
-        },
-        {
-            "id" : 8,
-            "title": "Total Simetry",
-            "author": "Osmar Martinez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer8.png"
-        },
-        {
-            "id" : 9,
-            "title": "Swirls All The Way Down",
-            "author": "Maura Benitez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer9.png"
-        }
-  ],
-  "tracks": [
+      "id": 6,
+      "url": "https://gurunavi.com/en/japanfoodie/article/types_of_sushi/img/01_Sushi.jpg",
+      "name": "Uramaki"
+      "desc": "How to make uramaki bla bla ",
+      "shortDesc": "Short desc des",
+      "price": 16
+    }
+    ],
+  "drink": [
     {
-            "id" : 1,
-            "title": "Swirls All The Way Down",
-            "author": "Maura Benitez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer1.png"
-        },
-        {
-            "id" : 2,
-            "title": "Total Simetry",
-            "author": "Osmar Martinez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer2.png"
-        },
-        {
-            "id" : 3,
-            "title": "Swirls All The Way Down",
-            "author": "Maura Benitez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer3.png"
-        },
-        {
-            "id" : 4,
-            "title": "Swirls All The Way Down",
-            "author": "Maura Benitez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer4.png"
-        },
-        {
-            "id" : 5,
-            "title": "Total Simetry",
-            "author": "Osmar Martinez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer5.png"
-        },
-        {
-            "id" : 6,
-            "title": "Swirls All The Way Down",
-            "author": "Maura Benitez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer6.png"
-        },
-        {
-            "id" : 7,
-            "title": "Swirls All The Way Down",
-            "author": "Maura Benitez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer7.png"
-        },
-        {
-            "id" : 8,
-            "title": "Total Simetry",
-            "author": "Osmar Martinez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer8.png"
-        },
-        {
-            "id" : 9,
-            "title": "Swirls All The Way Down",
-            "author": "Maura Benitez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer9.png"
-        },
-        {
-            "id" : 10,
-            "title": "Swirls All The Way Down",
-            "author": "Maura Benitez",
-            "thumbnail": "http://uninterested-cows.surge.sh/images/layer10.png"
-        }
-  ]
+      "id": 7,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Tumbler_of_cola_with_ice.jpg",
+      "name": "Coke",
+      "desc": "Coke no sugar",
+      "shortDesc": "Hmmmm",
+      "price": 15
+    },
+    {
+      "id": 8,
+      "url": "https://mixthatdrink.com/wp-content/uploads/2020/02/sex-in-the-driveway-drink-3-750x1125-487x731.jpg",
+      "name": "Beer",
+      "desc": "Beer for men",
+      "shortDesc": "Drink drank drunk",
+      "price": 12
+    },
+    {
+      "id": 9,
+      "url": "https://dynaimage.cdn.cnn.com/cnn/c_fill,g_auto,w_1200,h_675,ar_16:9/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F200721130505-06-summer-drink-recipes-wellness.jpg",
+      "name": "Cooktail"
+      "desc": "Cooktail is free for woman",
+      "shortDesc": "I dunno what to say",
+      "price": 16
+    }
+    ]
 }
